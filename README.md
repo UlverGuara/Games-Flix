@@ -1,5 +1,6 @@
 # Games-Flix
 Criando um Clone da Netflix só para jogos.
+Utilizando HTML5 e CSS3.
 <br>
 Link: https://heuristic-colden-e3c89e.netlify.app/
 
